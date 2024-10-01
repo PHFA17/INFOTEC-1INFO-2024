@@ -376,9 +376,3 @@ svg:hover{
     }
 
 }
-
-@media (max-width:725px){
-    .exposicoes img{
-        width: 414px; height: 234px;
-    }
-}
